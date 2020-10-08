@@ -1,2 +1,9 @@
-# 401d37-Final-Project
-401d37 Final Project
+Team Name - Devpendencies
+
+
+••The Devpendents••
+
+Dev Low - Tia Low
+Dev Romero - Blake Romero
+Dev Herriges - Matt Herriges
+Dev Baldock - Steve Baldock
