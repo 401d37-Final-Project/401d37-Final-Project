@@ -1,19 +1,21 @@
-Team Name - Devpendencies
+### Team Name - Devpendencies
 
-The Devpendents
+## The Devpendents
 
 Dev Low - Tia Low
 Dev Romero - Blake Romero
 Dev Herriges - Matt Herriges
 Dev Baldock - Steve Baldock
 
+## Project Name
 
-Project Description
+The Devpendency Application
 
-The application will be 
+## Project Summary
 
+Provide a resource for developers to track/apply to jobs, create "notes" whiteboard style, and look up pertinent information for DSAs. Devpendency will provide all these features with a clean, easily navigable user interface.
 
-Proposed Platform
+## Proposed Platform
 
 React or React Native
 
