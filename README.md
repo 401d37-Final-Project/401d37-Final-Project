@@ -21,7 +21,9 @@ React or React Native
 
 ## Attachments
 [requirements](requirements.md)
-![wireframe](#)
-![domain-model](#)
+![wireframe1](Assets/wireframe1.png)
+![wireframe2](Assets/wireframe2.png)
+![wireframe3](Assets/wireframe3.png)
+![domain-model](uml.png)
 
 
